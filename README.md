@@ -1,5 +1,4 @@
 # well-lab
-<<<<<<< HEAD
 
 > alias name of vue-lab project.
 
@@ -20,6 +19,3 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-alias name of vue-lab project.
->>>>>>> 841329cafe39aaad8336740bcfce46b71e597d2f
